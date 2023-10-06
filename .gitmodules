@@ -1,0 +1,4 @@
+[submodule "library"]
+	path = library
+	url = git@github.com:ruinkogr/android_lib_as_subrepository.git
+	branch = main
